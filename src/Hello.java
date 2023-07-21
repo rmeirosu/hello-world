@@ -1,7 +1,9 @@
 public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello, Razvan");
-
+    /*
+    https://deloittedevelopment.udemy.com/course/java-the-complete-java-developer-course/learn/lecture/34998528#overview
+    */
         boolean isAlien = true;
         if (isAlien == false)
             /* Two equal signs (==) are the Equality Operator.
